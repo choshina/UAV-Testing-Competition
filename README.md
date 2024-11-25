@@ -1,4 +1,4 @@
-# PALM at the SBFT 2025 Tool Competition - CPS-UAV Test Case Generation Track
+# PALM at the ICST 2025 Tool Competition: UAV Testing Track
 ## Overview
 This is the implementation of our [UAV-Testing-Competition](https://github.com/skhatiri/UAV-Testing-Competition) tool called **PALM** (**PA**th b**L**oking **M**onte carlo tree). Generally, it adopts the Monte Carlo Tree Search (MCTS) algorithm to place obstacles on the trajectories of Unmanned Aerial Vehicles (UAVs) to challenge its flight.
 
